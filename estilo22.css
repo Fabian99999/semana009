@@ -1,0 +1,38 @@
+#cabecera {
+    font-family: times new roman;
+    font-size: 20px;
+    text-align: center;
+    color: #38312c;
+    background-color: #bbbbbb;
+}
+.Titulo1 {
+    border-top-style: solid;
+    border-top-color: aqua;
+}
+.Titulo2 {
+    border-bottom-color: aquamarine;
+    border-bottom-style: solid;
+}
+.Titulo3 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.Titulo4 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.Titulo5 {
+    vertical-align: middle;
+}
+.Titulo6 {
+    text-indent: 50px;
+}
+.Titulo7 {
+    width: 200px;
+    border: 1px solid black;
+    word-wrap: normal;
+}
+.Titulo8 {
+    -webkit-text-stroke: 2px rgb(53, 159, 185);
+    -webkit-text-stroke: 2px rgb(50, 130, 133);
+}

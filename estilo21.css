@@ -1,0 +1,28 @@
+.Titulo1 {
+    border-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #00f;
+    padding: 0px;
+    
+}
+.Titulo2, .Titulo3, .Titulo5 {
+    border-width:2px;
+    border-style:solid;
+    border-color:#aaa;
+    padding: 8px;
+    margin: 0;
+}
+.Titulo4 {
+    border-top-width: 4px;
+    border-top-style: dotted;
+    border-top-color: #F00;
+    border-bottom-width: 4px;
+    border-bottom-style: dotted;
+    border-bottom-color: #F00;
+}
+.Titulo6 {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: #0F0;
+}
+
